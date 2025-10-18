@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Ryan Truong! 
+# 👋 Hi, I'm Ryan ! 
 ### � Backend & DevOps Engineer | 💡 Problem Solver | ⚡ Performance En---
 
 <div align="center">
 
 ## 🛠️ **Tech Stack & Tools**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,typescript,python,html,css,tailwind,nextjs,postgres,mysql,mongodb,docker,nginx,aws,git,github,gitlab" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,typescript,python,html,css,tailwind,nextjs,postgres,mysql,mongodb,docker,nginx,aws,git,github" alt="Tech Stack" />
 
 </div>
 
@@ -106,7 +106,7 @@ Security:
   - JWT: Token-based auth
 ```
 
-</details>mg src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+robust+APIs+%26+scalable+systems;Automating+deployments+with+Docker+%26+CI%2FCD;Integrating+payments+%26+cloud+services" alt="Typing SVG" />
+</details><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+robust+APIs+%26+scalable+systems;Automating+deployments+with+Docker+%26+CI%2FCD;Integrating+payments+%26+cloud+services" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=DattruongRyan1912&color=blueviolet" alt="Profile views"/>

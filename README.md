@@ -27,8 +27,9 @@ IT graduate with 2+ years of hands-on back-end and fullstack experience, primari
 - **Public Engineering Showcase**:
   - [`branchbook`](https://github.com/DattruongRyan1912/branchbook) — Multi-branch booking SaaS learning architecture (Laravel, NestJS, Next.js)
   - [`toeic-lab`](https://github.com/DattruongRyan1912/toeic-lab) — Full-stack self-study TOEIC platform for engineers (FastAPI, Next.js)
-  - [`chat-realtime`](https://github.com/DattruongRyan1912/chat-realtime) — Real-time messaging app (NestJS WebSocket, Next.js)
+  - [`mynotch-app`](https://github.com/DattruongRyan1912/mynotch-app) — Modular macOS notch productivity app releases & site ([mynotch.truongquocdat.id.vn](https://mynotch.truongquocdat.id.vn/))
   - [`tien-dat-audio`](https://github.com/DattruongRyan1912/tien-dat-audio) — E-commerce web app & CMS (Next.js 15, TypeScript, MongoDB)
+  - [`agent-orchestrator-mcp`](https://github.com/DattruongRyan1912/agent-orchestrator-mcp) — MCP server & CLI bridge for multi-agent coding workflows
 
 ---
 
